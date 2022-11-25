@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Advan Application</string>
+    <string name="hint_angka1">Masukkan Angka 1</string>
+    <string name="Hint_angka2">Masukan Angka 2</string>
+    <string name="submit">Submit</string>
+    <string name="rendang">Rendang</string>
+    <string name="input_nama">Input Nama</string>
+    <string name="masukkan_deskripsi">Masukkan Deskripsi</string>
+    <string name="Submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="sebelumnya">Sebelumnya</string>
+    <string name="before">Before</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="food_menu">Menu Makanan</string>
+    <string name="add">Add</string>
+</resources>
